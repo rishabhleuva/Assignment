@@ -1,0 +1,33 @@
+#contactForm {
+  background-color: aliceblue;  
+  padding: 30px;
+  border-radius: 10px;
+  width: 350px;
+  margin: auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+#submitBtn {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+#submitBtn:hover {
+  background-color: #0056b3;
+}

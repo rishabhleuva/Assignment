@@ -1,0 +1,7 @@
+
+1. Presentation Layer: User Interface created with JSP/Servlets.
+2. Business Logic Layer: Processes business rules with EJBs or Java classes.
+3. Data Layer: Databases accessed via JDBC or ORM.
+
+Explanation:
+The Presentation Layer handles requests and responses between the user and server. The Business Logic Layer contains the core processing, making decisions and calculations. The Data Layer interacts directly with the database to retrieve or store application data.
